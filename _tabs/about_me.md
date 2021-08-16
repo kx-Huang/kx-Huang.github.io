@@ -29,7 +29,7 @@ _Hi there, I'm Michael Huang_
 
 ## 🎲 Me as Myself
 - I'm an 🎹 *Anime Piano Player* and upload video clips occasionally [@my bilibili channel](https://space.bilibili.com/43655575){:target="_blank"}.
-- I'm a big fan of mobile MOBA [@王者荣耀](https://pvp.qq.com/){:target="_blank"} and achieved 🏆 *荣耀王者* for several seasons.
+- I'm a big fan of mobile MOBA [@王者荣耀](https://pvp.qq.com/){:target="_blank"} and achieved 🏆 荣耀王者 for several seasons.
 
 ### 😅 Things I don't really like...
 `math`, `physics`, `hardware`, `circuit`, `modern C++`, `tricky algorithms`, `randomized team work`, `socialize with strangers`, `singing`
