@@ -11,7 +11,7 @@ _Hi there, I'm Michael Huang_
 📝 You can find my résumé [here](/assets/file/Kexuan_Huang_CV.pdf){:target="_blank"}.
 
 ## 🧑🏽‍🎓 As a Student
-- I was a high school student in 🎒 [Shanghai Datong High School](https://dt.hpe.cn/){:target="_blank"}.
+- I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="_blank"}.
 - I'm a senior undergraduate student 👓 [@SJTU](https://www.sjtu.edu.cn/){:target="_blank"}.
 - I major in Electrical and Computer Engineering 🔧 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="_blank"}.
 - I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="_blank"}.
