@@ -10,7 +10,7 @@ image:
   alt: my electric piano with cute LabLab
 ---
 
-As a crazy fan of the anime pianist [@Animenz](https://www.youtube.com/Animenzzz){:target="_blank"}, my strong interest in anime piano was triggered since a younger age by the episode [@Unravel - Tokyo Ghoul OP [Piano]](https://www.youtube.com/watch?v=sEQf5lcnj_o){:target="_blank"}. With this motivation, I started practicing some of his popular piano covers as well as amazing pieces from other talented composers and uploading them [@my bilibili channel](https://space.bilibili.com/43655575){:target="_blank"}. Here are some clips of mine.
+As a crazy fan of the anime pianist [@Animenz](https://www.youtube.com/Animenzzz){:target="_blank"}, my strong interest in anime piano was triggered since a younger age by the episode [@Unravel - Tokyo Ghoul OP](https://www.youtube.com/watch?v=sEQf5lcnj_o){:target="_blank"}. With this motivation, I started practicing some of his popular piano covers as well as amazing pieces from other talented composers and uploading them [@my bilibili channel](https://space.bilibili.com/43655575){:target="_blank"}. Here are some clips of mine.
 
 ---
 
