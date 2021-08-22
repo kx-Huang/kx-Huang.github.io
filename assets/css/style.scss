@@ -21,7 +21,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 .video-container iframe {
     position: absolute;
     top:0;
-    left: 2%;
-    width: 96%;
+    left: 0;
+    width: 100%;
     height: 100%;
 }
