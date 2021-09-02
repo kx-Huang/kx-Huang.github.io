@@ -14,6 +14,15 @@ As a crazy fan of the anime pianist [@Animenz](https://www.youtube.com/Animenzzz
 
 ---
 
+## Kakyoin's Theme (Noble Pope) - JoJo's Bizarre Adventure
+2021.9.3
+<div class="video-container">
+    <iframe src="https://player.bilibili.com/player.html?aid=335295607&bvid=BV12w411f75q&cid=401686797&page=1&danmaku=1&high_quality=1&as_wide=1" frameborder="0">
+    </iframe>
+</div>
+
+---
+
 ## Gurenge - Demon Slayer
 2020.8.11
 <div class="video-container">
