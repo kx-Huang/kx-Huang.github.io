@@ -4,15 +4,16 @@ icon: fas fa-info
 order: 4
 ---
 
-Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/file/Kexuan_Huang_CV.pdf){:target="_blank"}.
+Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/file/Kexuan_Huang_CV.pdf){:target="\_blank"}.
 
 ---
 
 ## As a Student
-- I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="_blank"}.
-- I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="_blank"}.
-- I major in Electrical and Computer Engineering 💻 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="_blank"}.
-- I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="_blank"}.
+
+- I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="\_blank"}.
+- I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"}.
+- I major in Electrical and Computer Engineering 💻 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
+- I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="\_blank"}.
 
 ![me](/assets/img/blog/about_me/me.png)
 _Me in my playground_
@@ -20,9 +21,10 @@ _Me in my playground_
 ---
 
 ## As an Employee
-- I was a design verification intern 🛠️ [@AMD](https://www.amd.com/en){:target="_blank"}.
-- I was an embedded software intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="_blank"}.
-- I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="_blank"}
+
+- I was a design verification intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
+- I was an embedded software intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="\_blank"}.
+- I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}
 
 ![employee](/assets/img/blog/about_me/employee.png)
 _Me in my former workspace_
@@ -32,9 +34,10 @@ _Me in my former workspace_
 ## As a Professional Badminton Player 🏸
 
 - I was a team member of SJTU Badminton Team and Huangpu District Team.
-- I won a 🥇 gold medal in *Man's Team* and 🥈 silver medal in *Man's Doubles* in Shanghai professional badminton competitions.
-- I won a 🥇 gold medal in *Mixed Team* on behalf of JI in 2019 SJTU Sport Competiton.
-- I won a 🥈 silver medal in *Man's Single* in 2019 SJTU Badminton Freshman Cup.
+- I won a 🥇 gold medal in _Man's Team_ and 🥈 silver medal in _Man's Doubles_ in Shanghai professional badminton competitions.
+- I won a 🥇 gold medal in _Mixed Team_ on behalf of UM-SJTU Joint Institute in 2019 SJTU Sport Competiton.
+- I won a 🥇 gold medal in _Mixed Team_ in 5th UM-SJTU Joint Institute Teacher-Student Badminton Competition.
+- I won a 🥈 silver medal in _Man's Single_ in 2019 SJTU Badminton Freshman Cup.
 
 ![badminton](/assets/img/blog/about_me/badminton.png)
 _Me with my doubles partner in Gym Hufaguang_
@@ -42,19 +45,23 @@ _Me with my doubles partner in Gym Hufaguang_
 ---
 
 ## As for Myself
-- I'm an 🎹 *Anime Piano Player* and upload video clips occasionally [@my bilibili channel](https://space.bilibili.com/43655575){:target="_blank"}.
-- I'm a big fan of mobile MOBA [@王者荣耀](https://pvp.qq.com/){:target="_blank"} and achieved 🏆 荣耀王者 for several seasons.
-- I'm a co-author [@SurviveUMJIManual](https://surviveumji.github.io/SurviveUMJIManual/){:target="_blank"}. If you will be/are/were a student in [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="_blank"}, I invite you to check this. It's so much fun!
+
+- I'm an 🎹 _Anime Piano Player_ and upload video clips occasionally [@my bilibili channel](https://space.bilibili.com/43655575){:target="\_blank"}.
+- I'm a big fan of mobile MOBA [@王者荣耀](https://pvp.qq.com/){:target="\_blank"} and achieved 🏆 荣耀王者 for several seasons.
+- I'm a co-author [@SurviveUMJIManual](https://surviveumji.github.io/SurviveUMJIManual/){:target="\_blank"}. If you will be/are/were a student in [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}, I invite you to check this. It's so much fun!
 
 ### 😅 Things I don't really like...
+
 `math`, `physics`, `hardware`, `circuit`, `modern C++`, `tricky algorithms`, `randomized team work`, `socialize with strangers`, `singing`
 
 ### 😄 Things I like...
+
 `furry`, `beastars`, `python`, `Apple products`, `call ready-made api`
 
 ---
 
 ## Meet my furry friends!
+
 ![dorm](/assets/img/blog/about_me/dorm.png)
 _My friend SharkShark, JayJay & CrabCrab in dormitory_
 
