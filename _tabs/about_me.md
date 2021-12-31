@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/file/Kexuan_Huang_CV.pdf){:target="\_blank"}.
+Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/file/CV_Kexuan%20Huang.pdf){:target="\_blank"}.
 
 ---
 
