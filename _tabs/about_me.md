@@ -12,10 +12,11 @@ Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/file/C
 
 - I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="\_blank"}.
 - I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"}.
+- I'll be an engineering exchange student 🇺🇸 [@University of Wisconsin-Madison](https://www.wisc.edu){:target="\_blank"}.
 - I major in Electrical and Computer Engineering 💻 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 - I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="\_blank"}.
 
-![me](/assets/img/blog/about_me/me.png)
+![me](/assets/img/blog/about_me/me.png){: width="70%"}
 _Me in my playground_
 
 ---
@@ -24,9 +25,9 @@ _Me in my playground_
 
 - I was a design verification intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
 - I was an embedded software intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="\_blank"}.
-- I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}
+- I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 
-![employee](/assets/img/blog/about_me/employee.png)
+![employee](/assets/img/blog/about_me/employee.png){: width="70%"}
 _Me in my former workspace_
 
 ---
@@ -39,7 +40,7 @@ _Me in my former workspace_
 - I won a 🥇 gold medal in _Mixed Team_ in 5th UM-SJTU Joint Institute Teacher-Student Badminton Competition.
 - I won a 🥈 silver medal in _Man's Single_ in 2019 SJTU Badminton Freshman Cup.
 
-![badminton](/assets/img/blog/about_me/badminton.png)
+![badminton](/assets/img/blog/about_me/badminton.png){: width="70%"}
 _Me with my doubles partner in Gym Hufaguang_
 
 ---
