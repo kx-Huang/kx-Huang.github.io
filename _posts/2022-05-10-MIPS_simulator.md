@@ -4,7 +4,7 @@ date: 2022-05-10 06:10:16 -0500
 categories: [archive, blogs]
 tags: [MIPS, CPU, Verilog] # TAG names should always be lowercase
 image:
-  src: /assets/img/blog/MIPS-simulator/MIPS-arch.png
+  src: /assets/img/blog/MIPS-simulator/pipeline.png
   width: 1000 # in pixels
   height: 400 # in pixels
   alt: MIPS Pipeline Architecture
@@ -26,14 +26,13 @@ You can find the source code in my [Github repo](https://github.com/kx-Huang/MIP
 
 The implementation is shown in architecture diagram below.
 
-![](img/MIPS_Single_Cycle.png)
-
+![](/assets/img/blog/MIPS-simulator/single-cycle.png)
 
 ## Pipeline CPU
 
 The implementation is shown in architecture diagram below.
 
-![](img/MIPS_Pipeline.png)
+![](/assets/img/blog/MIPS-simulator/pipeline.png)
 
 From the design we can see that we basically divided the single-cycle processor into 5 different stages to improve the CPU performance. The five stages include:
 
