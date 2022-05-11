@@ -26,6 +26,7 @@ You can find the source code in my [Github repo](https://github.com/kx-Huang/MIP
 
 The implementation is shown in architecture diagram below.
 
+![](/assets/img/blog/MIPS-simulator/demo.gif)
 ![](/assets/img/blog/MIPS-simulator/single-cycle.png)
 
 ## Pipeline CPU
