@@ -10,12 +10,12 @@ Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/CV
 
 ## As a Student
 
-- I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="\_blank"}.
-- I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"}.
-- I'm a Computer Science exchange student 🇺🇸 [@University of Wisconsin-Madison](https://www.wisc.edu){:target="\_blank"}.
 - I will be a master student pursuing master of science in information 🔍 [@University of Michigan](https://umich.edu){:target="\_blank"}.
+- I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"}.
 - I major in Electrical and Computer Engineering 💻 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 - I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="\_blank"}.
+- I was a Computer Science exchange student 🇺🇸 [@University of Wisconsin-Madison](https://www.wisc.edu){:target="\_blank"}.
+- I was a high school student 🎒 [@Shanghai Datong High School](https://dt.hpe.cn/){:target="\_blank"}.
 
 ![me](/assets/img/blog/about_me/me.png){: width="70%"}
 _Me in my playground_
