@@ -10,7 +10,7 @@ Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/CV
 
 ## As a Student
 
-- I will be a master student pursuing master of science in information 🔍 [@University of Michigan](https://umich.edu){:target="\_blank"}.
+- I will be a master student studying Information Science 🔍 [@University of Michigan](https://umich.edu){:target="\_blank"}.
 - I'm a senior undergraduate student 👓 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"}.
 - I major in Electrical and Computer Engineering 💻 [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 - I minor in Entrepreneurship 📈 [@School of Innovation and Entrepreneurship](https://www.si.sjtu.edu.cn/){:target="\_blank"}.
