@@ -9,8 +9,6 @@ image:
   alt: project workflow
 ---
 
-# Documentation
-
 This project is a course project in *ECE4721J Methods and Tools for Big Data* [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}. In general, we perform big data analysis with several tools and algorithms on [Million Song Dataset](http://millionsongdataset.com){:target="\_blank"}.
 
 You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE4721J/tree/master/project/pj_1){:target="\_blank"}.
@@ -33,7 +31,7 @@ You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE
 ### 0.1 Compact small `hdf5` files into larger one
 
 ```bash
-$ python3 create_aggregate_file.py <IN> <OUT>
+python3 create_aggregate_file.py <IN> <OUT>
 ```
 
 - Input: a directory contains `hdf5` song files
@@ -45,7 +43,7 @@ $ python3 create_aggregate_file.py <IN> <OUT>
 ### 0.2 Read `hdf5` file and extract the information
 
 ```bash
-$ python3 display_song.py [FLAGS] <HDF5> <idx> <field>
+python3 display_song.py [FLAGS] <HDF5> <idx> <field>
 ```
 
 - Input: an `hdf5` song file
@@ -57,7 +55,7 @@ $ python3 display_song.py [FLAGS] <HDF5> <idx> <field>
 ### 0.3 Convert `hdf5` to `Avro` with `Apache Avro™`
 
 ```bash
-$ hdf5_to_avro.py [-h] -s <SCHEMA> -i <HDF5> -o <AVRO>
+hdf5_to_avro.py [-h] -s <SCHEMA> -i <HDF5> -o <AVRO>
 ```
 
 - Input:
