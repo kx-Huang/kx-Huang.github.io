@@ -210,10 +210,11 @@ As a result, the range of dates covered by the songs is **84** years.
 
 ### 2.1 BFS with MapReduce - A Simple Example
 
-![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="50%" .left}
-Let's say we want to find artists similar to **A** with distance **3**, and we have the relationships shown in the graph on the left (each edge has distance **1**). With the following steps, we can get similar artist using BFS with MapReduce.
+Let's say we want to find artists similar to **A** with distance **3**, and we have the following relationship graph (each edge has distance **1**)
 
-<br>
+![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="40%" .left}
+
+With **n** MapReduce BFS iterations, we can get similar artist with distance **n**.
 
 ---
 
@@ -279,13 +280,9 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
   - CPU: Dualcore Intel Xeon Processor (Skylake, IBRS)
   - Memory: 4GB
 
-- MapReduce: around **250s**
-
-  ![MapReduce Time](/assets/img/blog/MSD-analysis/time-mapreduce.png){: width="40%"}
-
-- Spark: around **45s**
-
-  ![Spark Time](/assets/img/blog/MSD-analysis/time-spark.png){: width="60%"}
+|                     MapReduce: around **250s**                      |                    Spark: around **45s**                    |
+| :-----------------------------------------------------------------: | :---------------------------------------------------------: |
+| ![MapReduce Time](/assets/img/blog/MSD-analysis/time-mapreduce.png) | ![Spark Time](/assets/img/blog/MSD-analysis/time-spark.png) |
 
 ---
 
