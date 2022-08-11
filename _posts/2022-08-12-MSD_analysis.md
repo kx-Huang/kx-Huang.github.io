@@ -212,7 +212,7 @@ As a result, the range of dates covered by the songs is **84** years.
 
 Let's say we want to find artists similar to **A** with distance **3**, and we have the following relationship graph (each edge has distance **1**)
 
-![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="40%" .left}
+![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="40%"}
 
 With **n** MapReduce BFS iterations, we can get similar artist with distance **n**.
 
@@ -288,17 +288,11 @@ With **n** MapReduce BFS iterations, we can get similar artist with distance **n
 
 ## Reference
 
-1. Million Song Dataset
+1. Million Song Dataset. [`http://millionsongdataset.com`](http://millionsongdataset.com){:target="\_blank"}
 
-  [`http://millionsongdataset.com`](http://millionsongdataset.com){:target="\_blank"}
+2. Apache Avro Documentation. [`https://avro.apache.org/docs/current/index.html`](https://avro.apache.org/docs/current/index.html){:target="\_blank"}
 
-2. Apache Avro Documentation
-
-  [`https://avro.apache.org/docs/current/index.html`](https://avro.apache.org/docs/current/index.html){:target="\_blank"}
-
-3. Apache Spark Documentation
-
-  [`https://spark.apache.org/docs/latest/`](https://spark.apache.org/docs/latest/){:target="\_blank"}
+3. Apache Spark Documentation. [`https://spark.apache.org/docs/latest/`](https://spark.apache.org/docs/latest/){:target="\_blank"}
 
 
 **Thanks for your attention!**
