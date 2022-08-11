@@ -1,8 +1,8 @@
 ---
 title: "Simple MIPS CPU Simulator Written in Verilog"
 date: 2022-05-10 06:10:16 -0500
-categories: [archive, blogs]
-tags: [MIPS, CPU, Verilog] # TAG names should always be lowercase
+categories: [project]
+tags: [MIPS, CPU, Verilog]
 image:
   src: /assets/img/blog/MIPS-simulator/pipeline.png
   width: 1000 # in pixels
