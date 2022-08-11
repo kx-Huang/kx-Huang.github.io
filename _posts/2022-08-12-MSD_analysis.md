@@ -15,20 +15,18 @@ You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE
 
 ---
 
-## Goals
+# Project Goals
 
 - Work with Hadoop, Drill and Spark
 - Compare MapReduce and Spark
 - Retrieve specific information in big data
 - Perform advanced data analysis on big data
 
----
+Table of content:
 
-## Table of content
-
-- [Milestone 0: HDF5 Data Pre-process](#milestone-0-hdf5-data-pre-process)
-- [Milestone 1: Drill Database Query](#milestone-1-drill-database-query)
-- [Milestone 2: Advanced Data Analysis](#milestone-2-advanced-data-analysis)
+  - [Milestone 0: HDF5 Data Pre-process](#milestone-0-hdf5-data-pre-process)
+  - [Milestone 1: Drill Database Query](#milestone-1-drill-database-query)
+  - [Milestone 2: Advanced Data Analysis](#milestone-2-advanced-data-analysis)
 
 ---
 ## Milestone 0: HDF5 Data Pre-process
