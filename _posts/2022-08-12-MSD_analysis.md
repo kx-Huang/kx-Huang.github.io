@@ -213,13 +213,15 @@ As a result, the range of dates covered by the songs is **84** years.
 ![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="50%" .left}
 Let's say we want to find artists similar to **A** with distance **3**, and we have the relationships shown in the graph on the left (each edge has distance **1**). With the following steps, we can get similar artist using BFS with MapReduce.
 
+<br>
+
 ---
 
 #### 2.1.1 Initialize Graph File with Target Artist
 
 **Format**: each line contains `Node | Distance | Neighbours`
 
-![Initialize Graph File](/assets/img/blog/MSD-analysis/graph-0.png)
+![Initialize Graph File](/assets/img/blog/MSD-analysis/graph-init.png)
 
 ---
 
@@ -229,21 +231,27 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 ![Mapper in Iteraion 1](/assets/img/blog/MSD-analysis/mapper-1.png)
 
+---
+
 #### 2.1.3 Merge Distance Pairs in Reducer
 
 **Reducer**: Merge the same **Neighbour**, keep distance **minimum**
 
-![Reducer in Iteraion 1](/assets/img/blog/MSD-analysis/reducer-1.png){: width="70%" .left}
-![Graph after Iteration 1](/assets/img/blog/MSD-analysis/graph-1.png){: width="40%" .right}
+![Reducer in Iteraion 1](/assets/img/blog/MSD-analysis/reducer-1.png)
+
+---
 
 #### 2.1.4 Iteraiton 2: Mapper
 
 ![Mapper in Iteraion 2](/assets/img/blog/MSD-analysis/mapper-2.png)
 
+---
+
 #### 2.1.4 Iteraiton 2: Reducer
 
-![Reducer in Iteraion 2](/assets/img/blog/MSD-analysis/reducer-2.png){: width="60%" .left}
-![Graph after Iteration 2](/assets/img/blog/MSD-analysis/graph-2.png){: width="40%" .right}
+![Reducer in Iteraion 2](/assets/img/blog/MSD-analysis/reducer-2.png)
+
+---
 
 ### 2.2 BFS with Spark
 
@@ -261,6 +269,8 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 - Spark is assumed to be faster since subsequent steps are retained in memory with a trade-off of much more memory consumption
 
+---
+
 ### 2.3 Benchmark
 
 - Data size: around **20GB**
@@ -276,6 +286,8 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 - Spark: around **45s**
 
   ![Spark Time](/assets/img/blog/MSD-analysis/time-spark.png){: width="60%"}
+
+---
 
 ## Reference
 
