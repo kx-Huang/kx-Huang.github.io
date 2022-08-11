@@ -13,6 +13,8 @@ This project is a course project in *ECE4721J Methods and Tools for Big Data* [@
 
 You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE4721J/tree/master/project/pj_1){:target="\_blank"}.
 
+---
+
 ## Goals
 
 - Work with Hadoop, Drill and Spark
@@ -20,12 +22,15 @@ You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE
 - Retrieve specific information in big data
 - Perform advanced data analysis on big data
 
+---
+
 ## Table of content
 
 - [Milestone 0: HDF5 Data Pre-process](#milestone-0-hdf5-data-pre-process)
 - [Milestone 1: Drill Database Query](#milestone-1-drill-database-query)
 - [Milestone 2: Advanced Data Analysis](#milestone-2-advanced-data-analysis)
 
+---
 ## Milestone 0: HDF5 Data Pre-process
 
 ### 0.1 Compact small `hdf5` files into larger one
@@ -40,6 +45,8 @@ python3 create_aggregate_file.py <IN> <OUT>
 
 ![Compact 10000 `hdf5` files into larger one](/assets/img/blog/MSD-analysis/compact.jpeg)
 
+---
+
 ### 0.2 Read `hdf5` file and extract the information
 
 ```bash
@@ -51,6 +58,8 @@ python3 display_song.py [FLAGS] <HDF5> <idx> <field>
 - Output: specified field content
 
 ![Get artist name of the second song in compacted `hdf5` file](/assets/img/blog/MSD-analysis/extract.png)
+
+---
 
 ### 0.3 Convert `hdf5` to `Avro` with `Apache Avro™`
 
@@ -88,6 +97,8 @@ hdf5_to_avro.py [-h] -s <SCHEMA> -i <HDF5> -o <AVRO>
 
 ![Convert compacted `hdf5` file to `Avro`](/assets/img/blog/MSD-analysis/convert.jpeg)
 
+---
+
 ## Milestone 1: Drill Database Query
 
 Query [Million Song Dataset (MSD)](http://millionsongdataset.com) with `Drill`:
@@ -110,15 +121,19 @@ Query [Million Song Dataset (MSD)](http://millionsongdataset.com) with `Drill`:
 - Results:
 
   ```log
-  +--------+                        +--------+
-  |  Age   |                        |  Age   |
-  +--------+                        +--------+
-  | 12     |                        | 96     |
-  +--------+                        +--------+
-  1 rows selected (0.864 seconds)  1 rows selected (0.642 seconds)
+  +--------+                          +--------+
+  |  Age   |                          |  Age   |
+  +--------+                          +--------+
+  | 12     |                          | 96     |
+  +--------+                          +--------+
+  1 rows selected (0.864 seconds)     1 rows selected (0.642 seconds)
   ```
 
-The oldest song's age is **96** and the youngest is **12**. As a result, the range of dates covered by the songs is **84** years.
+The oldest song's age is **96** and the youngest is **12**.
+
+As a result, the range of dates covered by the songs is **84** years.
+
+---
 
 ### 1.2 Find the hottest song that is the shortest and shows highest energy with lowest tempo
 
@@ -139,6 +154,8 @@ The oldest song's age is **96** and the youngest is **12**. As a result, the ran
 +------------------------------------------------------+
 10 rows selected (0.471 seconds)
 ```
+
+---
 
 ### 1.3 Find the name of the album with the most tracks
 
@@ -163,6 +180,8 @@ The oldest song's age is **96** and the youngest is **12**. As a result, the ran
   1 row selected (0.695 seconds)
   ```
 
+---
+
 ### 1.4 Find the name of the band who recorded the longest song
 
 - SQL:
@@ -185,19 +204,24 @@ The oldest song's age is **96** and the youngest is **12**. As a result, the ran
   1 row selected (0.27 seconds)
   ```
 
+---
+
 ## Milestone 2: Advanced Data Analysis
 
 ### 2.1 BFS with MapReduce - A Simple Example
 
-![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){:width=50% .left}
+![Similarity Graph](/assets/img/blog/MSD-analysis/graph.png){: width="50%" .left}
 Let's say we want to find artists similar to **A** with distance **3**, and we have the relationships shown in the graph on the left (each edge has distance **1**). With the following steps, we can get similar artist using BFS with MapReduce.
+
+---
 
 #### 2.1.1 Initialize Graph File with Target Artist
 
-**Format**: each line contains **Node | Distance | Neighbours**
+**Format**: each line contains `Node | Distance | Neighbours`
 
 ![Initialize Graph File](/assets/img/blog/MSD-analysis/graph-0.png)
 
+---
 
 #### 2.1.2 Generate Distance Pairs in Mapper
 
@@ -209,8 +233,8 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 **Reducer**: Merge the same **Neighbour**, keep distance **minimum**
 
-![Reducer in Iteraion 1](/assets/img/blog/MSD-analysis/reducer-1.png){: width=60% .left}
-![Graph after Iteration 1](../assets/img/blog/MSD-analysis/graph-1.png){: width=40% .right}
+![Reducer in Iteraion 1](/assets/img/blog/MSD-analysis/reducer-1.png){: width="70%" .left}
+![Graph after Iteration 1](/assets/img/blog/MSD-analysis/graph-1.png){: width="40%" .right}
 
 #### 2.1.4 Iteraiton 2: Mapper
 
@@ -218,8 +242,8 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 #### 2.1.4 Iteraiton 2: Reducer
 
-![Reducer in Iteraion 2](/assets/img/blog/MSD-analysis/reducer-2.png){: width=60% .left}
-![Graph after Iteration 2](/assets/img/blog/MSD-analysis/graph-2.png){: width=40% .right}
+![Reducer in Iteraion 2](/assets/img/blog/MSD-analysis/reducer-2.png){: width="60%" .left}
+![Graph after Iteration 2](/assets/img/blog/MSD-analysis/graph-2.png){: width="40%" .right}
 
 ### 2.2 BFS with Spark
 
@@ -247,11 +271,11 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 - MapReduce: around **250s**
 
-  ![MapReduce Time](/assets/img/blog/MSD-analysis/time-mapreduce.png){width=40%}
+  ![MapReduce Time](/assets/img/blog/MSD-analysis/time-mapreduce.png){: width="40%"}
 
 - Spark: around **45s**
 
-  ![Spark Time](/assets/img/blog/MSD-analysis/time-spark.png){width=60%}
+  ![Spark Time](/assets/img/blog/MSD-analysis/time-spark.png){: width="60%"}
 
 ## Reference
 
@@ -270,4 +294,4 @@ Let's say we want to find artists similar to **A** with distance **3**, and we h
 
 **Thanks for your attention!**
 
-![Never Gonna Give You Up (by Rick Astley)](/assets/img/blog/MSD-analysis/thank-you.png){width=75%}
+![Never Gonna Give You Up (by Rick Astley)](/assets/img/blog/MSD-analysis/thank-you.png){: width="75%"}
