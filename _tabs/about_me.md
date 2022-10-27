@@ -4,7 +4,7 @@ icon: fas fa-info
 order: 4
 ---
 
-Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/CV_Kexuan%20Huang.pdf){:target="\_blank"}.
+Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 
 Currently, I'm seeking for 2023 summer intern in United States 🇺🇸. I'm interested in:
 
