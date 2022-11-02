@@ -60,7 +60,7 @@ _Me (upper right) with my Michigan teammates_
 
 **(New!)** My highlights in 2022 US Eastern Collegiate Team Badminton Championships. Semi-final _Men's Doubles 1_ UMich vs. WUSTL:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C0a6UDJbaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="  margin-left: auto; margin-right: auto;"></iframe>
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/3C0a6UDJbaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
