@@ -54,7 +54,7 @@ My previous highlights:
 - I won a 🥇 gold medal in _Mixed Team_ in 5th UM-SJTU Joint Institute Teacher-Student Badminton Competition.
 - I won a 🥈 silver medal in _Men's Single_ in 2019 SJTU Badminton Freshman Cup.
 - **(New!)** I won a 🥉 bronze medal in _Mixed Team_ on behalf of University of Michigan in 2022 US Eastern Collegiate Team Badminton Championships.
-- **(New!)** I won a 🥈 silver medal in _Mixed Doubles A Flight_ in 2022 Fall U of M Badminton Open. (Beat a professional badminton player called [Andres E Corpancho](https://bwfbadminton.com/player/13762/andres-corpancho) whose BWF world rank in mix doubles was 42)
+- **(New!)** I won a 🥈 silver medal in _Mixed Doubles A Flight_ in 2022 Fall U of M Badminton Open. (Beat a professional badminton player called [Andres E Corpancho](https://bwfbadminton.com/player/13762/andres-corpancho){:target="\_blank"} whose BWF world rank in mix doubles was 42)
 
 ![badminton](/assets/img/blog/about_me/badminton.png){: width="70%"}
 _Me (upper right) with my Michigan teammates_
