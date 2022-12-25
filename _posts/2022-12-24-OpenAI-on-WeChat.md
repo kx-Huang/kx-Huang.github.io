@@ -11,6 +11,8 @@ image:
 
 🤖️ Turn your WeChat into an auto-reply chatbot powered by OpenAI [**within only 2 steps!**](#12-deploy-on-cloud) 🤖️
 
+---
+
 ## Acknowledgement & Features ![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue) <!-- omit in toc -->
 
 This project is implemented based on [this amazing project](https://github.com/fuergaosi233/wechat-chatgpt) that I contibuted before, with [`Wechaty SDK`](https://github.com/wechaty/wechaty) and `OpenAI API Key`, we achieve:
@@ -20,11 +22,15 @@ This project is implemented based on [this amazing project](https://github.com/f
 
 You can find the source code in my [Github repo](https://github.com/kx-Huang/OpenAI-on-WeChat){:target="\_blank"}.
 
+---
+
 ## 1. How to Deploy this Bot?
 
 You can deploy **in local** or **on cloud**,  whatever you want.
 
 The [deploy on cloud](#12-deploy-on-cloud) method is recommended.
+
+---
 
 ### 1.1 Deploy in Local
 
@@ -132,6 +138,8 @@ Finally, everything is good to go! You will see the logs when people sending you
 
 🤖 **Enjoy your powerful chatbot!** 🤖
 
+---
+
 ## 2. Any Fancy Advanced Settings?
 
 ### 2.1 Config Reply in Error
@@ -212,6 +220,8 @@ if (message.text().startsWith("Hello")) {
 ```
 
 Of course, stuffing all handlers in `main` function is really a **BAD** habit in coding. As a result, we will fix this in future updates to do logic separation.
+
+---
 
 ## 3. How to Contribute to this Project?
 
