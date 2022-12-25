@@ -11,9 +11,9 @@ image:
 
 🤖️ Turn your WeChat into an auto-reply chatbot powered by OpenAI [**within only 2 steps!**](#12-deploy-on-cloud) 🤖️
 
-- Github Status: ![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social)
+Github Status: ![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social)
 
-- Project Status: ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue)
+Project Status: ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue)
 
 ---
 
