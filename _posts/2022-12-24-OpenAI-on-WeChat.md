@@ -15,7 +15,7 @@ image:
 
 ## Acknowledgement & Features <!-- omit in toc -->
 
-This project is implemented based on [this amazing project](https://github.com/fuergaosi233/wechat-chatgpt) that I contibuted before, with [`Wechaty SDK`](https://github.com/wechaty/wechaty) and `OpenAI API Key`, we achieve:
+This project is implemented based on [this amazing project](https://github.com/fuergaosi233/wechat-chatgpt){:target="\_blank"} that I contibuted before, with [`Wechaty SDK`](https://github.com/wechaty/wechaty){:target="\_blank"} and `OpenAI API Key`, we achieve:
 
 - fast and robust connection to dozens of `AI model` with different features
 - stable and persistent deployment on cloud servers `Railway`
@@ -36,8 +36,8 @@ The [deploy on cloud](#12-deploy-on-cloud) method is recommended.
 
 #### 1.1.1 Get your OpenAI API Keys
 
-- `openaiApiKey` can be generated in the [**API Keys Page** in your OpenAI account](https://beta.openai.com/account/api-keys)
-- `openaiOrganizationID` is optional, which can be found in the [**Settings Page** in your Open AI account](https://beta.openai.com/account/org-settings)
+- `openaiApiKey` can be generated in the [**API Keys Page** in your OpenAI account](https://beta.openai.com/account/api-keys){:target="\_blank"}
+- `openaiOrganizationID` is optional, which can be found in the [**Settings Page** in your Open AI account](https://beta.openai.com/account/org-settings){:target="\_blank"}
 
 ---
 
@@ -102,7 +102,7 @@ Once you deploy the bot successfully, just follow the `terminal` or `Logs` in Do
 
 Click the button below to fork this repo and deploy with Railway!
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zKIfYk?referralCode=D6wD0x)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/zKIfYk?referralCode=D6wD0x){:target="\_blank"}
 
 ---
 
@@ -178,7 +178,7 @@ const ChatGPTModelConfig = {
 };
 ```
 
-For more details, please refer to [OpenAI Models Doc](https://beta.openai.com/docs/models/overview).
+For more details, please refer to [OpenAI Models Doc](https://beta.openai.com/docs/models/overview){:target="\_blank"}.
 
 ---
 
@@ -201,7 +201,7 @@ const response = await this.OpenAI.createCompletion({
 
 Of course you can ask how to edit text in current mode, but the outcome may fall short of expectations.
 
-For more details, please refer to [OpenAI API Doc](https://beta.openai.com/docs/api-reference/introduction).
+For more details, please refer to [OpenAI API Doc](https://beta.openai.com/docs/api-reference/introduction){:target="\_blank"}.
 
 ---
 
