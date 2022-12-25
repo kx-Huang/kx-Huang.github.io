@@ -9,11 +9,7 @@ image:
   alt: Your Chatbot in Group Chat!
 ---
 
-# OpenAI on WeChat!
-
-![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social)
-
-![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue)
+![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue)
 
 🤖️ Turn your WeChat into an auto-reply chatbot powered by OpenAI [**within only 2 steps!**](#12-deploy-on-cloud) 🤖️
 
@@ -114,7 +110,7 @@ Fill in the following blanks:
 2. Choose make it private or not (also up to you)
 3. Environment variables (for how to get OpenAI API keys, please refer to [1.1.1 Get your OpenAI API Keys](#111-get-your-openai-api-keys)
 
-![Railway Config](doc/img/Railway_config.png)
+![Railway Config](/assets/img/blog/OpenAI-on-WeChat/Railway_config.png)
 
 **Please note:**
 
@@ -126,15 +122,15 @@ Make sure the environment variables are set in RailWay instead of writing direct
 
 The deploy process is automatic. It may take a few minutes for the first time. As you see the `Success`, click the tab to see the details. (which is your secret WeChat console!)
 
-![Railway Deploy](doc/img/Railway_deploy.png)
+![Railway Deploy](/assets/img/blog/OpenAI-on-WeChat/Railway_deploy.png)
 
 Click `Deply Logs` and you will see everything is setting up, wait for a QR Code to pop up. Scan it as if you are login to your desktop WeChat, and click "Log in" on your mobile WeChat.
 
-![Railway Scan QR Code](doc/img/Railway_QRCode.png)
+![Railway Scan QR Code](/assets/img/blog/OpenAI-on-WeChat/Railway_QRCode.png)
 
 Finally, everything is good to go! You will see the logs when people sending you messagem, and whenever the chatbot is auto-triggered to reply.
 
-![Railway Log](doc/img/Railway_log.png)
+![Railway Log](/assets/img/blog/OpenAI-on-WeChat/Railway_log.png)
 
 🤖 **Enjoy your powerful chatbot!** 🤖
 
