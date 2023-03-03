@@ -1,12 +1,12 @@
 ---
-title: "🤖️ OpenAI on WeChat: Turn your WeChat into an auto-reply chatbot powered by OpenAI! 🤖️"
+title: "🤖️ ChatGPT on WeChat: Turn your WeChat into ChatGPT! 🤖️"
 date: 2022-12-25 00:11:24 -0800
 categories: [portfolio]
 tags: [portfolio, TypeScript, chatbot, API] # TAG names should always be lowercase
 image:
   src: /assets/img/blog/OpenAI-on-WeChat/bot_demo.png
   height: 400 # in pixels
-  alt: Your Chatbot in Group Chat!
+  alt: Your ChatGPT in Group Chat!
 ---
 
 ## ![Gtihub Stars](https://img.shields.io/github/stars/kx-huang/openai-on-wechat?style=social) ![Github Forks](https://img.shields.io/github/forks/kx-huang/openai-on-wechat?style=social) ![Github Close Issue](https://img.shields.io/github/issues-closed-raw/kx-huang/openai-on-wechat?logo=github&style=social) ![Railway Deploy](https://img.shields.io/github/checks-status/kx-huang/chatgpt-on-wechat/master?logo=railway&style=flat) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) ![License: ISC](https://img.shields.io/badge/License-ISC-yellow.svg) [![wakatime](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394.svg)](https://wakatime.com/badge/user/7d2c2fc8-bd1d-4e1e-bb2b-b49c6120ed53/project/205c561e-69ba-4478-b07f-f5bc7a0ed394) ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.ChatGPT-on-WeChat&left_color=gray&right_color=blue)
@@ -158,23 +158,23 @@ const chatgptErrorMessage = "🤖️：AI机器人摆烂了，请稍后再试～
 
 You can change whatever `OpenAI` Models you like to handle task at different capability & time-consumption trade-off. (e.g. model with better capability costs more time to respond)
 
-Currently, we use the latest `text-davinci-003` model, which is:
+Currently, we use the latest `gpt-3.5-turbo` model. According to OpenAI doc,
 
-> Most capable GPT-3 model. Can do any task the other models can do, often with higher quality, longer output and better instruction-following. Also supports inserting completions within text.
+> ChatGPT is powered by `gpt-3.5-turbo`, OpenAI’s most advanced language model.
 
 Also, for the same model, we can configure dozens of parameter (e.g. answer randomness, maximum word limit...). For example, for the `temperature` field:
 
-> Higher values means the model will take more risks. Try 0.9 for more creative applications, and 0 (argmax sampling) for ones with a well-defined answer.
+> Higher values like 0.8 will make the output more random, while lower values like 0.2 will make it more focused and deterministic.
 
 You can configure all of them in `src/chatgpt.js`:
 
 ```typescript
 const ChatGPTModelConfig = {
   // this model field is required
-  model: "text-davinci-003",
+  model: "gpt-3.5-turbo",
   // add your OpenAI model parameters below
-  temperature: 0.3,
-  max_tokens: 2000,
+  temperature: 0.8,
+  // max_tokens: 2000,
 };
 ```
 
@@ -186,20 +186,18 @@ For more details, please refer to [OpenAI Models Doc](https://beta.openai.com/do
 
 You can change whatever features you like to handle different types of tasks. (e.g. complete text, edit text, generate code...)
 
-Currently, we use `createCompletion()` to generate or manipulate text for daily usage, which:
+Currently, we use `createChatCompletion()` powered by `gpt-3.5-turbo` model, which:
 
-> Creates a completion for the provided prompt and parameters
+> take a series of messages as input, and return a model-generated message as output.
 
 You can configure in `src/chatgpt.js`:
 
 ```typescript
-const response = await this.OpenAI.createCompletion({
+const response = await this.OpenAI.createChatCompletion({
   ...ChatGPTModelConfig,
-  prompt: inputMessage,
+  messages: inputMessages,
 });
 ```
-
-Of course you can ask how to edit text in current mode, but the outcome may fall short of expectations.
 
 For more details, please refer to [OpenAI API Doc](https://beta.openai.com/docs/api-reference/introduction){:target="\_blank"}.
 
@@ -209,7 +207,7 @@ For more details, please refer to [OpenAI API Doc](https://beta.openai.com/docs/
 
 You can add your own task handlers to expand the ability of this chatbot!
 
-Currently, add task handler in `src/main.ts`:
+In `src/chatgpt.ts` `ChatGPTBot.onCustimzedTask()`, write your own task handler:
 
 ```typescript
 // e.g. if a message starts with "Hello", the bot sends "World!"
@@ -218,10 +216,6 @@ if (message.text().startsWith("Hello")) {
   return;
 }
 ```
-
-Of course, stuffing all handlers in `main` function is really a **BAD** habit in coding. As a result, we will fix this in future updates to do logic separation.
-
----
 
 ## 3. How to Contribute to this Project?
 
