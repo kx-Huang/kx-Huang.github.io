@@ -6,7 +6,7 @@ order: 4
 
 Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 
-Currently, I'm seeking for 2023 summer intern in United States 🇺🇸. I'm interested in:
+Currently, I'm an incoming __Software Development Intern__ [@Valeo](https://www.valeo.com/){:target="\_blank"} for 2023 summer in Troy, Michigan, United States 🇺🇸. I'm also actively looking for 2023 New Graduate Position. I'm interested in:
 
 - Software development: back-end, front-end
 - Data Science & Engineering: big-data, database, distributed system
@@ -31,7 +31,8 @@ _Me in my playground_
 
 ## As an Employee
 
-- I was a Design Verification Engineer Intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
+- I am an incoming __Software Development Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"}
+- I was a DevOps Engineer Intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
 - I was an Embedded Software Engineer Intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="\_blank"}.
 - I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 - I was a research intern 🔬[@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}
