@@ -9,9 +9,9 @@ image:
   alt: Statistics on Different Datasets
 ---
 
-## Paper Link
+## Report Link
 
-In this blog, we have provided a brief overview of this interesting project and a taste of the preliminary analysis. For more detailed experiments, please refer to our full paper [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
+In this blog, we have provided a brief overview of this interesting project and a taste of the preliminary analysis. For more detailed experiments, please refer to our full report [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
 
 ---
 
@@ -104,7 +104,7 @@ We conducted an analysis of dependency parsing in both human-generated and machi
 
 ## Experiments
 
-For more details on experiments, please refer to our full paper [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
+For more details on experiments, please refer to our full report [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
 
 ---
 
