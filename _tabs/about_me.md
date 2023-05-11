@@ -4,9 +4,9 @@ icon: fas fa-info
 order: 4
 ---
 
-Hi there, I'm Michael Huang. You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
+Hi there, I'm Kexuan (Michael) Huang. You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 
-Currently, I'm an incoming __Software Development Intern__ [@Valeo](https://www.valeo.com/){:target="\_blank"} for 2023 summer in Troy, Michigan, United States 🇺🇸. I'm also actively looking for 2023 New Graduate Position. I'm interested in:
+Currently, I'm an incoming __Software Engineer Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"} for 2023 summer in Troy, Michigan, United States 🇺🇸. I'm also actively looking for 2023 New Graduate Position. I'm interested in:
 
 - Software development: back-end, front-end
 - Data Science & Engineering: big-data, database, distributed system
@@ -22,7 +22,7 @@ Please do contact me if you are recruiting!
 - I got the Bachelor of Engineering 💻 [@Shanghai Jiao Tong University](https://www.sjtu.edu.cn/){:target="\_blank"} [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
   - Major: Electrical and Computer Engineering (ECE)
   - Dual Minor: Computer Science (CS) & Entrepreneurship
-- I was an exchange student in Computer Science [@University of Wisconsin-Madison](https://www.wisc.edu){:target="\_blank"}.
+- I was a visiting student in Computer Science [@University of Wisconsin-Madison](https://www.wisc.edu){:target="\_blank"}.
 
 ![me](/assets/img/blog/about_me/me.png){: width="70%"}
 _Me in my playground_
@@ -31,8 +31,8 @@ _Me in my playground_
 
 ## As an Employee
 
-- I am an incoming __Software Development Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"}
-- I was a DevOps Engineer Intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
+- I am an incoming __Software Engineer Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"}
+- I was a Software Engineer Intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
 - I was an Embedded Software Engineer Intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="\_blank"}.
 - I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
 - I was a research intern 🔬[@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}
@@ -44,7 +44,7 @@ _Me in my former workspace_
 
 ## As a Badminton Athlete 🏸
 
-I am currently a member of Michigan Badminton Team, and I play _Men's Doubles_.
+I am currently a member of Michigan Badminton Team, and I play _Men's Doubles_ and _Mixed Doubles_.
 
 Also, I was a member of Shanghai HuangPu District Badminton Team and SJTU Badminton Team. I started training badminton professionally when I was 5 years old, but for now I play for fun.
 
@@ -56,7 +56,8 @@ My previous highlights:
 - I won a 🥈 silver medal in _Men's Single_ in 2019 SJTU Badminton Freshman Cup.
 - I won a 🥉 bronze medal in _Mixed Team_ on behalf of University of Michigan in 2022 US Eastern Collegiate Team Badminton Championships.
 - I won a 🥈 silver medal in _Mixed Doubles A Flight_ in 2022 Fall U of M Badminton Open. (Beat a professional badminton player called [Andres E Corpancho](https://bwfbadminton.com/player/13762/andres-corpancho){:target="\_blank"} whose BWF world rank in mix doubles was 42)
-- **(New!)** I won a 🥇 gold medal in _Mixed Doubles A Flight_ in 2023 Ohio Badminton Open.
+- I won a 🥇 gold medal in _Mixed Doubles A Flight_ in 2023 Ohio Badminton Open.
+- **(New!)** I won a 🥈 silver medal in _Men's Doubles A Flight_ in 2023 MBC Spring Badminton Open.
 
 ![badminton](/assets/img/blog/about_me/badminton.png){: width="70%"}
 _Me (upper right) with my Michigan teammates_
