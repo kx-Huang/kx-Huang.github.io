@@ -6,9 +6,9 @@ order: 4
 
 Hi there, I'm Kexuan (Michael) Huang. You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 
-Currently, I'm an incoming __Software Engineer Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"} for 2023 summer in Troy, Michigan, United States 🇺🇸. I'm also actively looking for 2023 New Graduate Position. I'm interested in:
+Currently, I'm now an __Software Engineer Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"} for summer 2023 in Troy, Michigan, United States 🇺🇸. I'm also actively looking for 2024 New Graduate Position. I'm interested in:
 
-- Software development: back-end, front-end
+- Software development: back-end, front-end, full-stack
 - Data Science & Engineering: big-data, database, distributed system
 - User Experience (UX) & Human-Computer Interaction (HCI) Design
 
