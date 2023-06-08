@@ -9,9 +9,9 @@ image:
   alt: Statistics on Different Datasets
 ---
 
-## Report Link
+## Report and Code
 
-In this blog, we have provided a brief overview of this interesting project and a taste of the preliminary analysis. For more detailed experiments, please refer to our full report [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
+In this blog, we have provided a brief overview of this interesting project and a taste of the preliminary analysis. For more detailed experiments, please refer to our full report [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"} and code [here](https://github.com/MGTD4ChatGPT){:target="\_blank"}.
 
 ---
 
