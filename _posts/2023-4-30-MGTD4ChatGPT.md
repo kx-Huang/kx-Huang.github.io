@@ -109,9 +109,3 @@ We conducted an analysis of dependency parsing in both human-generated and machi
 ## Experiments
 
 For more details on experiments, please refer to our full report [here](/assets/doc/MGTD4ChatGPT.pdf){:target="\_blank"}.
-
----
-
-## Acknowledgement
-
-This project is a course project of [SI630 Natural Language Processing: Algorithms and People](https://www.si.umich.edu/programs/courses/630){:target="\_blank"} in University of Michigan School of information. Great thanks to my teammates, [Prof. David Jurgens](https://jurgens.people.si.umich.edu){:target="\_blank"}, GSI Yutong Xie and all contributors of resources that are used or included in this project.
