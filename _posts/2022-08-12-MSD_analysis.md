@@ -1,5 +1,5 @@
 ---
-title: Big Data Analysis on Million Song Dataset
+title: Song Recommendation System Based on Big Data Analysis
 date: 2022-08-12 00:49:00 +0800
 categories: [project]
 tags: [big-data, MapReduce, Hadoop, Spark, Drill, Avro, HDFS, query, database, Python]
@@ -9,7 +9,7 @@ image:
   alt: project workflow
 ---
 
-This project is a course project in *ECE4721J Methods and Tools for Big Data* [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}. In general, we perform big data analysis with several tools and algorithms on [Million Song Dataset](http://millionsongdataset.com){:target="\_blank"}.
+This project is a course project in *ECE4721J Methods and Tools for Big Data* [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}. In general, we built a song recommendation system based on big data analysis with several tools and algorithms on [Million Song Dataset](http://millionsongdataset.com){:target="\_blank"}.
 
 You can find the source code in my [Github repo](https://github.com/kx-Huang/ECE4721J/tree/master/project/pj_1){:target="\_blank"}.
 
