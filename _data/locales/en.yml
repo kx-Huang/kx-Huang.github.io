@@ -10,7 +10,7 @@ layout:
 # The tabs of sidebar
 tabs:
   # format: <filename_without_extension>: <value>
-  home: About
+  home: Portfolios
   categories: Categories
   tags: Tags
   archives: Timeline
