@@ -12,7 +12,7 @@ image:
 
 # Documentation ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.MIPS-simulator&left_color=gray&right_color=blue)
 
-This project is a course project in *VE370 Computer Organization* [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}. In general, we implement an simple simulator of MIPS CPU with both single-cycle and pipeline version in Verilog, which can fetch machine code from files and simulate the CPU processing.
+This project is a course project in *VE370 Computer Organization* [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}. In general, we implement a simple simulator of MIPS CPU with both single-cycle and pipeline version in Verilog, which can fetch machine code from files and simulate the CPU processing.
 
 You can find the source code in my [Github repo](https://github.com/kx-Huang/MIPS-simulator){:target="\_blank"}.
 
