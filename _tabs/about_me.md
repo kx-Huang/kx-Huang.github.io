@@ -31,7 +31,8 @@ _Me in my playground_
 
 ## As an Employee
 
-- I am currently a __Software Engineer Intern__ 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"}
+- I'm currently a __Graduate Student Instructor (GSI)__ for Data-Oriented Programming (SI206) course.
+- I was a Software Engineer Intern 💻 [@Valeo](https://www.valeo.com/){:target="\_blank"}
 - I was a Software Engineer Intern 🛠️ [@AMD](https://www.amd.com/en){:target="\_blank"}.
 - I was an Embedded Software Engineer Intern 🤖 [@Segway-Ninebot](http://ap-en.segway.com/){:target="\_blank"}.
 - I was a teaching assistant of VE300 & VE496 courses ✏️ [@UM-SJTU Joint Institute](https://www.ji.sjtu.edu.cn/){:target="\_blank"}.
