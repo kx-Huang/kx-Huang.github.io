@@ -16,7 +16,11 @@ timezone: America/Los_Angeles
 
 title: Michael Huang # the main title
 
-tagline: Software Engineer 🧑‍💻 Alumni @umich @sjtu 🧑‍🎓 Badminton Athlete 🏸 Pomsky Dad 🐶 # it will display as the sub-title
+tagline: |+ # it will display as the sub-title
+Software Engineer 🧑‍💻
+Alumni @UMich @SJTU 🧑‍🎓
+Badminton Athlete 🏸
+Pomsky Dad 🐶
 
 description: >- # used by seo meta and the atom feed
   Personal Website for Michael Huang
