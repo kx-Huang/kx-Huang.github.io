@@ -63,12 +63,10 @@ _My Roadmap_
 
 ![Chris](/assets/img/blog/about_me/chris.jpg){: width="972" .w-50 .left}
 _Chris 烧麦_
-
 Chris 烧麦 is a Pomsky (博士奇) boy born in March 29th, 2024. Chris is a mix between the Pomeranian (博美) and Husky (哈士奇). Chris is a quiet and adorable boy who is always wagging for treats and hugs.
 
 ![Lucky](/assets/img/blog/about_me/lucky.jpg){: width="972" .w-50 .right}
 _Lucky_
-
 Lucky is a Doberman (杜宾) boy born in 2015. I've spent most of my life time with Lucky starting from my high school freshman year. Lucky is a energetic boy who likes running, chasing and playing.
 
 ## My Badminton Career
