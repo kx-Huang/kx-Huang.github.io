@@ -1,8 +1,87 @@
 ---
 # the default layout is 'page'
+title: About Me
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+> Hi there, I'm Kexuan (Michael) Huang! You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 {: .prompt-tip }
+
+## My Roadmap
+
+![My Roadmap](/assets/img/blog/about_me/roadmap.svg)
+_My Roadmap_
+
+<!-- ```mermaid
+%%{
+    init: {
+      'logLevel': 'debug',
+      'theme': 'base',
+      'themeVariables': {
+        'commitLabelFontSize': '12px'
+      },
+      'gitGraph': {
+        'rotateCommitLabel': false,
+        'mainBranchName': 'Education'
+      }
+    }
+  }%%
+
+  gitGraph
+    commit id: "Shanghai Jiao Tong University" tag: "2018.09" type: HIGHLIGHT
+    commit id: "Sophomore"
+    branch Internship
+    commit id: "Segway" tag: "2020.01"
+    checkout Education
+    commit id: "Junior"
+    checkout Education
+    checkout Internship
+    commit id: "AMD" tag: "2020.12"
+    checkout Education
+    commit id: "Senior"
+    branch Exchange
+    commit id: "University of Wisconsin - Madision" tag: "2022.01"
+    checkout Education
+    commit id: "End"
+    merge Exchange id: "B.Eng. in Electrical and Computer Engineering" tag: "2022.06"
+    commit id: "University of Michigan" tag: "2020.8" type: HIGHLIGHT
+    checkout Internship
+    commit id: "Valeo" tag: "2023.06"
+    checkout Education
+    commit id: "2nd Year"
+    checkout Internship
+    commit id: "Graduate Student Instructor" tag: "2023.09"
+    checkout Education
+    merge Internship id: "M.Sc. in Information Science" tag: "2024.05"
+    commit id: "End" type: REVERSE
+    branch "Full Time"
+    commit id: "Apple" tag: "2024.07"
+``` -->
+
+## My Pets
+
+![Lucky](/assets/img/blog/about_me/lucky.jpg){: width="486"}
+_Lucky (he is a Doberman)_
+
+![Chris](/assets/img/blog/about_me/chris.jpg){: width="486"}
+_Chris 烧麦 (he is a Pomsky)_
+
+## My Badminton Career
+
+I started training badminton professionally in Shanghai Luwan Badminton Team when I was 5 years old. After Luwan District got merged into Huangpu District, I became a member of Shanghai HuangPu Badminton Team.
+
+During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose currently **BWF World Rankings is 4** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he attended China National Badminton Team.
+
+![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg)
+_Jiang Zhenbang and me playing in Shanghai Junior Badminton Tournament_
+
+After that, I played in Shanghai Jiao Tong University and University of Michigan badminton team. It deserves highlight that I won championships for UMich at the US Collegiate Badminton Competition in 2024.
+
+![US Collegiate Badminton Competition](/assets/img/blog/about_me/conference.jpg)
+_Championships in 2024 US Collegiate Badminton Competition_
+
+![President Santa Ono](/assets/img/blog/about_me/ono.jpg)
+_UMich President Santa Ono and me at Michigan State Badminton Open_
+
+After graduation, I'm finally playing for fun now lol.
