@@ -11,19 +11,20 @@ order: 4
 ## My Roadmap
 
 ![My Roadmap](/assets/img/blog/about_me/roadmap.svg){: .light}
-_My Roadmap_
-
-![dark mode only](/assets/img/blog/about_me/roadmap-dark.svg){: .dark}
-_My Roadmap_
+![My Roadmap](/assets/img/blog/about_me/roadmap-dark.svg){: .dark}
 
 <!-- ```mermaid
 %%{
     init: {
       'logLevel': 'debug',
-      'theme': 'base',
+      'theme': 'dark',
       'themeVariables': {
-        'commitLabelFontSize': '12px'
-      },
+            'commitLabelFontSize': '12px',
+            'git0': '#ffcb5e',
+            'git1': '#ca5eff',
+            'git2': '#76a3ff',
+            'git3': '#ff795e'
+       },
       'gitGraph': {
         'rotateCommitLabel': false,
         'mainBranchName': 'Education'
@@ -31,7 +32,7 @@ _My Roadmap_
     }
   }%%
 
-  gitGraph
+  gitGraph TB:
     commit id: "Shanghai Jiao Tong University" tag: "2018.09" type: HIGHLIGHT
     commit id: "Sophomore"
     branch Internship
