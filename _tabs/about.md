@@ -10,7 +10,10 @@ order: 4
 
 ## My Roadmap
 
-![My Roadmap](/assets/img/blog/about_me/roadmap.svg)
+![My Roadmap](/assets/img/blog/about_me/roadmap.svg){: .light}
+_My Roadmap_
+
+![dark mode only](/assets/img/blog/about_me/roadmap-dark.svg){: .dark}
 _My Roadmap_
 
 <!-- ```mermaid
@@ -61,11 +64,14 @@ _My Roadmap_
 
 ## My Pets
 
-![Chris](/assets/img/blog/about_me/chris.jpg){: width="972" .w-50 .left}
-Chris 烧麦 is a Pomsky (博士奇) boy born in March 29th, 2024. Chris is a mix between the Pomeranian (博美) and Husky (哈士奇). Chris is a quiet and adorable boy who is always wagging for treats and hugs.
+![Pets](/assets/img/blog/about_me/pets.jpg){: width="750" .rounded-10}
 
-![Lucky](/assets/img/blog/about_me/lucky.jpg){: width="972" .w-50 .right}
-Lucky is a Doberman (杜宾) boy born in 2015. I've spent most of my life time with Lucky starting from my high school freshman year. Lucky is a energetic boy who likes running, chasing and playing.
+Lucky
+: a Doberman (杜宾) boy born in 2015. I've spent most of my life time with Lucky starting from my high school freshman year. Lucky is a energetic boy who likes running, chasing and playing.
+
+Chris 烧麦
+: a Pomsky (博士奇) boy born in March 29th, 2024, which is a mix between the Pomeranian (博美) and Husky (哈士奇). Chris is a quiet and adorable boy who is always wagging for treats and hugs.
+
 
 ## My Badminton Career
 
@@ -73,15 +79,15 @@ I started training badminton professionally in Shanghai Luwan Badminton Team whe
 
 During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose currently **BWF World Rankings is 4** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he attended China National Badminton Team.
 
-![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg){: width="650"}
+![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg){: width="750" .rounded-10}
 _Jiang Zhenbang and me playing in Shanghai Junior Badminton Tournament_
 
 After that, I played in Shanghai Jiao Tong University and University of Michigan badminton team. It deserves highlight that I won championships for UMich at the US Collegiate Badminton Competition in 2024.
 
-![US Collegiate Badminton Competition](/assets/img/blog/about_me/conference.jpg){: width="650"}
+![US Collegiate Badminton Competition](/assets/img/blog/about_me/conference.jpg){: width="750" .rounded-10}
 _Championships in 2024 US Collegiate Badminton Competition_
 
-![President Santa Ono](/assets/img/blog/about_me/ono.jpg){: width="770"}
+![President Santa Ono](/assets/img/blog/about_me/ono.jpg){: width="750" .rounded-10}
 _UMich President Santa Ono and me at Michigan State Badminton Open_
 
 After graduation, I'm finally playing for fun now lol.
