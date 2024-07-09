@@ -61,10 +61,10 @@ _My Roadmap_
 
 ## My Pets
 
-![Lucky](/assets/img/blog/about_me/lucky.jpg){: width="486"}
+![Lucky](/assets/img/blog/about_me/lucky.jpg){: width="380"}
 _Lucky (he is a Doberman)_
 
-![Chris](/assets/img/blog/about_me/chris.jpg){: width="486"}
+![Chris](/assets/img/blog/about_me/chris.jpg){: width="380"}
 _Chris 烧麦 (he is a Pomsky)_
 
 ## My Badminton Career
@@ -73,15 +73,15 @@ I started training badminton professionally in Shanghai Luwan Badminton Team whe
 
 During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose currently **BWF World Rankings is 4** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he attended China National Badminton Team.
 
-![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg)
+![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg){: width="770"}
 _Jiang Zhenbang and me playing in Shanghai Junior Badminton Tournament_
 
 After that, I played in Shanghai Jiao Tong University and University of Michigan badminton team. It deserves highlight that I won championships for UMich at the US Collegiate Badminton Competition in 2024.
 
-![US Collegiate Badminton Competition](/assets/img/blog/about_me/conference.jpg)
+![US Collegiate Badminton Competition](/assets/img/blog/about_me/conference.jpg){: width="770"}
 _Championships in 2024 US Collegiate Badminton Competition_
 
-![President Santa Ono](/assets/img/blog/about_me/ono.jpg)
+![President Santa Ono](/assets/img/blog/about_me/ono.jpg){: width="770"}
 _UMich President Santa Ono and me at Michigan State Badminton Open_
 
 After graduation, I'm finally playing for fun now lol.
