@@ -5,7 +5,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Hi there, I'm Kexuan (Michael) Huang! You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
+Hi there, I'm Kexuan (Michael) Huang!
+
+> A quick glance? You can find my résumé 📝 [here](/assets/doc/Resume_Kexuan_Huang.pdf){:target="\_blank"}.
 {: .prompt-tip }
 
 ## My Roadmap
