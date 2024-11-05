@@ -81,7 +81,7 @@ Chris 烧麦
 
 I started training badminton professionally in Shanghai Luwan Badminton Team when I was 5 years old. After Luwan District got merged into Huangpu District, I became a member of Shanghai HuangPu Badminton Team.
 
-During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose currently **BWF World Rankings is 4** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he attended China National Badminton Team.
+During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose highest **BWF World Rankings is 2** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he got admitted to China National Badminton Team.
 
 ![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg){: width="750" .rounded-10}
 _Jiang Zhenbang and me playing in Shanghai Junior Badminton Tournament_
@@ -95,3 +95,8 @@ _Championships in 2024 US Collegiate Badminton Competition_
 _UMich President Santa Ono and me at Michigan State Badminton Open_
 
 After graduation, I'm finally playing for fun now lol.
+
+**🏆 Update! 🏆**
+
+- **[11/02/2024]** I won Google Bay Area Open (GBAO) Open Double fight championship 🥇 with my partner [**Vanessa Su**](https://www.linkedin.com/in/jiayao-su-6296421a8/). Competing as a Mixed Doubles team, we battled through 5 Men’s Doubles pairs to claim the championship.
+- **[10/26/2024]** I won Apple Badminton Open (ABO) Mix Double fight championship 🥇
