@@ -100,3 +100,4 @@ After graduation, I'm finally playing for fun now lol.
 
 - **[11/02/2024]** I won Google Bay Area Open (GBAO) Open Double fight championship 🥇 with my partner [**Vanessa Su**](https://www.linkedin.com/in/jiayao-su-6296421a8/). Competing as a Mixed Doubles team, we battled through 5 Men’s Doubles pairs to claim the championship.
 - **[10/26/2024]** I won Apple Badminton Open (ABO) Mix Double fight championship 🥇
+- **[3/15/2025]** I won Apple Badminton Spring Open (ABSO) Men's Double & Mix Double fight championships 🥇🥇
