@@ -81,7 +81,7 @@ Chris 烧麦
 
 I started training badminton professionally in Shanghai Luwan Badminton Team when I was 5 years old. After Luwan District got merged into Huangpu District, I became a member of Shanghai HuangPu Badminton Team.
 
-During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose highest **BWF World Rankings is 2** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he got admitted to China National Badminton Team.
+During my time there, I met my former Men's Doubles partner [**Jiang Zhenbang**](https://bwfbadminton.com/player/63029/jiang-zhen-bang){:target="\_blank"}, whose highest **BWF World Rankings is 1** in Mixed Doubles and won 2023 Asian Championships. We played a few tournaments together before he got admitted to China National Badminton Team.
 
 ![Jiang Zhenbang](/assets/img/blog/about_me/badminton.jpg){: width="750" .rounded-10}
 _Jiang Zhenbang and me playing in Shanghai Junior Badminton Tournament_
